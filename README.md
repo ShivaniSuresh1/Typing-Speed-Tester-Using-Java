@@ -51,9 +51,6 @@ To get started with TypingSpeedTester, you can clone this repository to your loc
 - Compatible with Windows, macOS, and Linux.
 - Requires a keyboard and mouse for optimal functionality.
 
-## Support and Feedback
-
-For assistance or feedback, contact our support team at support@speedtyperpro.com. We value user input and continuously strive to improve the SpeedTyper Pro experience.
 
 ## Contribute
 
