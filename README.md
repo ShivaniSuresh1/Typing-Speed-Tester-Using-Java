@@ -2,7 +2,7 @@
 
 ## Overview
 
-The SpeedTyper Pro is a user-friendly application designed to assess and enhance typing skills. In today's digital age, typing proficiency is a fundamental skill, and this project provides an interactive platform for users to measure their typing speed and accuracy. The primary goal is to promote self-improvement and skill development, making typing challenges enjoyable and engaging.
+The TypingSpeedTester is a user-friendly application designed to assess and enhance typing skills. In today's digital age, typing proficiency is a fundamental skill, and this project provides an interactive platform for users to measure their typing speed and accuracy. The primary goal is to promote self-improvement and skill development, making typing challenges enjoyable and engaging.
 
 ## Features
 
@@ -28,11 +28,11 @@ The SpeedTyper Pro is a user-friendly application designed to assess and enhance
 
 ## Getting Started
 
-To get started with SpeedTyper Pro, you can clone this repository to your local machine. Follow these steps:
+To get started with TypingSpeedTester, you can clone this repository to your local machine. Follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/dengue-guard-meds.git
+   git clone https://github.com/ShivaniSuresh1/Typing-Speed-Tester-Using-Java.git
    ```
 2. **Open Terminal or Command Prompt:**
    - Open a terminal or command prompt on your local machine.
