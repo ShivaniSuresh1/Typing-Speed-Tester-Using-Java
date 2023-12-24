@@ -43,7 +43,7 @@ To get started with TypingSpeedTester, you can clone this repository to your loc
 4. **Run the project:**
    - Run the following command to run the project.
      ```bash
-     java TypingSpeedTester.java
+     javac TypingSpeedTester.java
      ```
      
 ## System Requirements
